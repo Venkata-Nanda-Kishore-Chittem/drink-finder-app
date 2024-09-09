@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&family=Protest+Guerrilla&display=swap&family=Exo:ital,wght@0,100..900;1,100..900');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.marko-one-regular {
+  font-family: "Marko One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.protest-guerrilla-regular {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  height: 100vh;
+  background: url("https://i5.walmartimages.com/seo/Cafe-Bar-Photography-Backdrop-Restaurant-Cafe-Bar-Counter-Pub-Bar-Theme-Background-Home-Party-Backdrop-Wall-Banner-Decor_48eaa967-29e8-497a-b7ea-3220abd6a7cd.4c3525e0a31fb1083b1033d410479719.jpeg");
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.glass-cards {
+  font-family: "Exo";
+  background-color: rgba(0,0,0,0.5);
+  backdrop-filter: blur(5px);
+  cursor: pointer;
+}
+
+.fs-4 {
+  color: rgb(255, 217, 0);
+}
+
